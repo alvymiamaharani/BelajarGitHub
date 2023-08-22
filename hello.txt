@@ -1,2 +1,1 @@
-hello
-percobaan konflik2
+hello world saja
